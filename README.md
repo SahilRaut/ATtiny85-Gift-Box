@@ -16,8 +16,9 @@ Components used:
 I am using a 
 
 
+To flash the attiny with the code use this setup
 
-
+![Untitled Sketch_bb](https://github.com/SahilRaut/ATtiny85-Gift-Box/assets/66782904/1eb3010b-ce1f-47c8-b5bd-f3fac7fa5f58)
 
 
 
