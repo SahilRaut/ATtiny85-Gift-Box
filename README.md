@@ -2,7 +2,9 @@
 
 A compact, ATtiny85-powered keychain featuring a 0.96-inch OLED screen. This project was created as a token of appreciation for the teachers and technicians who contributed to my growth as an engineer during my bachelor's degree.
 
-![ATtiny85 Gift Box](https://github.com/user-attachments/assets/2f3d7d54-17cf-4ad5-86b0-aa7efd20ff06)
+<img src="https://github.com/user-attachments/assets/2f3d7d54-17cf-4ad5-86b0-aa7efd20ff06" width="500" alt="ATtiny85 Gift Box">
+
+
 
 ## Table of Contents
 - [Components](#components)
