@@ -7,11 +7,10 @@ A compact, ATtiny85-powered keychain featuring a 0.96-inch OLED screen. This pro
 
 ## Table of Contents
 - [Components](#components)
-- [Programming the ATtiny85](#programming-the-attiny85)
+- [Programming the ATtiny85](https://github.com/SahilRaut/ATtiny85-Gift-Box/wiki/Flashing-the-Atiny85)
 - [Circuit Diagram](#circuit-diagram)
-- [Assembly](#assembly)
-- [Usage](#usage)
-- [Acknowledgements](#acknowledgements)
+- [Youtube Video](#Video)
+
 
 ## Components
 
@@ -26,10 +25,6 @@ A compact, ATtiny85-powered keychain featuring a 0.96-inch OLED screen. This pro
 <img src="https://github.com/user-attachments/assets/195d3154-7a27-4298-b043-6fed62177f3d" width="700" alt="ATtiny85 Gift Box"> 
 
 
-## Programming the ATtiny85
-
-
-[Click here for instructions on flashing the ATtiny85](https://github.com/SahilRaut/ATtiny85-Gift-Box/wiki/Flashing-the-Atiny85)
 
 
 ## Circuit Diagram
