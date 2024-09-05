@@ -38,7 +38,7 @@ Here's the circuit diagram for the ATtiny85 Gift Box:
 
 ## Video
 
-[Add instructions on how to use the gift box, what the buttons do, and any special features]
+[Add video link here]
 
 
 ---
