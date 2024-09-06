@@ -44,8 +44,7 @@ Here's the circuit diagram for the ATtiny85 Gift Box:
 
 ## Video
 
-[Click Here]](https://lnkd.in/ex3HKWvR)
-
+https://lnkd.in/ex3HKWvR
 
 ---
 
